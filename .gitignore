@@ -16,3 +16,7 @@ __pycache__/
 
 # Jupyter checkpoints
 .ipynb_checkpoints/
+
+mental-health-bot-final/
+*.zip
+*.bin
